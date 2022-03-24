@@ -8,6 +8,7 @@ access:
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
+  schemaKey: AssetsSummary
 citation: Liu, Qili (2022) Electrophysiological recordings in protein hunger neurons
   of Drosophila Melanogaster (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000227/draft
 contributor:
